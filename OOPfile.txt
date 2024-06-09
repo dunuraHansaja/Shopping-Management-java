@@ -1,0 +1,7 @@
+
+1w phone 10 10000.0  3yr
+1d tv 10 500000.0  5yr
+4r radio 67 25000.0  2y
+2r shirt 20 5000.0  red
+3r denim 20 7000.0  blue
+4rt short 45 7500.0  black
